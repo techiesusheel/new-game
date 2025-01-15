@@ -1,2 +1,3 @@
 # new-game
-this is my first git repository.susheel
+this is my first git repository.susheel 
+ kumar
